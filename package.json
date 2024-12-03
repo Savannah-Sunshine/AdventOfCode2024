@@ -1,0 +1,11 @@
+{
+  "name": "sav-advent-of-code",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node runCode.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
